@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "date": "07/03/2023",
+            "title": "TechAnkit",
+            "descriptions": "This is sample description for my project. it's like tech company and using technology react js and saas it is responsive web",
+            "url": "https://heroic-brioche-0726ee.netlify.app",
+            "img": "https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=740&t=st=1688032031~exp=1688032631~hmac=c1e756bc39a838a8780bb70ab76a996722a6e39e031a3aadd9da9724087fd6ba"
+        },
+        {
+            "date": "10/04/2023",
+            "title": "VideoHub",
+            "descriptions": "This is sample description for my project. it's like videos upload Sinup SinIn but it is Static webpage using technology react js and Chakara UI it is responsive web",
+            "url": "https://heroic-brioche-0726ee.netlify.app",
+            "img": "https://images.unsplash.com/photo-1682506456442-a051e8dae813?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+        },
+        {
+            "date": "15/05/2023",
+            "title": "Xcrypto",
+            "descriptions": "Crypto app it is provide crypto coins price INR ,USD ,ERO and daily high low and you can see chart  react js and Chakara Ui chartJS coingecko api using it is responsive web",
+            "url": "https://zippy-scone-0d5942.netlify.app",
+            "img": "https://images.unsplash.com/photo-1634704784915-aacf363b021f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "date": "20/06/2023",
+            "title": "Portfolio",
+            "descriptions": "This is my personal Portfolio web app and mention all project and it is live you can click view demo Using Rectjs firebase",
+            "url": "/",
+            "img": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        }
+    ]
+}
